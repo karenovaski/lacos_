@@ -26,6 +26,7 @@
 -
  
 # Fontes Consultadas 🔗
+- https://www.homehost.com.br/blog/javascript/for-javascript/#:~:text=resolver%20problemas%20espec%C3%ADficos.-,Exemplo%3A,preciso%20do%20n%C3%BAmero%20de%20itera%C3%A7%C3%B5es.
  
 # Autores 👥
 - [Karen Novaski](https://github.com/karenovaski)
